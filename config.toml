@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://jyannick.github.io/bieres/"
 languageCode = "fr-fr"
 title = "Les Bières de Yannick"
 theme = "themeDeYannick"
+publishDir = "docs"
 
 [menu]
   [[menu.main]]
