@@ -1,4 +1,4 @@
-baseURL = "http://jyannick.github.io/bieres/"
+baseURL = "https://jyannick.github.io/bieres/"
 languageCode = "fr-fr"
 title = "Les Bières de Yannick"
 theme = "themeDeYannick"
