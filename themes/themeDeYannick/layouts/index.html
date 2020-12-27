@@ -1,5 +1,11 @@
 {{ define "main" }}
 <div id="home-jumbotron" class="jumbotron text-center">
   <h1 class="title">{{ .Site.Title }}</h1>
+  <p class="lead">{{ .Site.Params.Welcome }}</p>
+  <img
+    src="/bieres/img/welcome-background.jpg"
+    class="img-fluid rounded"
+    alt="Welcome image"
+  />
 </div>
 {{ end }}

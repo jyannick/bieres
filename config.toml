@@ -4,6 +4,9 @@ title = "Les Bières de Yannick"
 theme = "themeDeYannick"
 publishDir = "docs"
 
+[params]
+  welcome = "Brassage maison et références obscures"
+
 [menu]
   [[menu.main]]
     name = "Accueil"
