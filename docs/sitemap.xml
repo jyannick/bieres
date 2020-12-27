@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jyannick.github.io/bieres/bieres/</loc>
+    <lastmod>2020-12-27T14:04:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jyannick.github.io/bieres/</loc>
+    <lastmod>2020-12-27T14:04:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jyannick.github.io/bieres/bieres/mudders-milk/</loc>
+    <lastmod>2020-12-27T14:04:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jyannick.github.io/bieres/bieres/beltalowda-ipa/</loc>
+    <lastmod>2020-12-27T13:41:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jyannick.github.io/bieres/bieres/holiday-special/</loc>
+    <lastmod>2020-12-27T11:57:23+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jyannick.github.io/bieres/tags/bar/</loc>
     <lastmod>2020-12-26T21:14:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jyannick.github.io/bieres/tags/foo/</loc>
-    <lastmod>2020-12-26T21:14:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jyannick.github.io/bieres/</loc>
     <lastmod>2020-12-26T21:14:00+01:00</lastmod>
   </url>
   
