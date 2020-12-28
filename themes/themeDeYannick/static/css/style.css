@@ -13,6 +13,10 @@ a:hover {
   color: var(--hover-color);
 }
 
+#nav-border {
+  background-color: var(--accent-color);
+}
+
 .nav-link {
   background-color: var(--accent-color);
   color: var(--contrast-color);
