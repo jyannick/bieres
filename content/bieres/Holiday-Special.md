@@ -8,7 +8,10 @@ draft: true
 brewMethod: "tout grain"
 recipe: "kit Bière de Noël saveur-bière.com"
 recipeUrl: "https://www.saveur-biere.com/fr/kit-a-biere-tout-grain/33787-recette-biere-noel-recharge-pour-beer-kit-confirme.html"
-color: "noire"
+recipeUrl: 
+style: Bière de Noël
+color: noire
+alcoolByVolume: 8
 ---
 
 Mon premier brassin !

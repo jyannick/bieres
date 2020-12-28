@@ -7,7 +7,9 @@ date: {{ .Date }}
 draft: true
 brewMethod: "extraits de malt"
 recipe: "recette maison"
-recipeUrl: "https://www.google.com/search?q=%22{{ replace .Name "-" " " | title }}%22"
-color: "noire"
+recipeUrl: 
+style: 
+color: 
+alcoolByVolume: 5
 ---
 

@@ -8,6 +8,8 @@ draft: true
 brewMethod: "extraits de malt"
 recipe: "Brewferm Belgian Wit"
 recipeUrl: 
-color: "blanche"
+style: bière de blé
+color: blanche
+alcoolByVolume: 5.5
 ---
 
