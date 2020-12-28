@@ -15,17 +15,17 @@ publishDir = "docs"
     weight = 1
   [[menu.main]]
     name = "Bières"
-    pre = "smile"
+    pre = "wine-bottle"
     url = "/bieres/"
     weight = 2
   [[menu.main]]
     name = "Brassage"
-    pre = "tool"
+    pre = "flask"
     url = "/brassage/"
     weight = 3
   [[menu.main]]
     name = "Blog"
-    pre = "pen-tool"
+    pre = "user-edit"
     url = "/posts/"
     weight = 4
   [[menu.main]]
