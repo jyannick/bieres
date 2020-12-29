@@ -3,6 +3,7 @@ languageCode = "fr-fr"
 title = "Les Bières de Yannick"
 theme = "themeDeYannick"
 publishDir = "docs"
+pluralizelisttitles = false
 
 [params]
   welcome = "Brassage maison et références obscures"
