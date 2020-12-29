@@ -1,11 +1,13 @@
 :root {
-  --accent-color: #0d6efd;
-  --hover-color: #9ac2fe;
-  --contrast-color: white;
+  --accent-color: #322620;
+  --accent-hover-color: #fff9c2;
+  --accent-contrast-color: white;
+  --highlight-color: #7c5d50;
 }
 
 a {
   text-decoration: none;
+  color: var(--highlight-color);
 }
 
 a:hover {
@@ -19,10 +21,28 @@ a:hover {
 
 .nav-link {
   background-color: var(--accent-color);
-  color: var(--contrast-color);
+  color: var(--accent-contrast-color);
 }
 
 .nav-link:hover {
   text-decoration: none;
-  color: var(--hover-color);
+  color: var(--accent-hover-color);
+}
+
+.icon {
+  display: inline-flex;
+  align-self: center;
+}
+
+.icon svg,
+.icon img {
+  height: 1em;
+  width: 1em;
+  fill: currentColor;
+}
+
+.icon.baseline svg,
+.icon img {
+  top: 0.125em;
+  position: relative;
 }

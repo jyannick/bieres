@@ -1,14 +1,12 @@
 <div id="nav-border" class="container-fluid">
     <nav id="nav" class="nav justify-content-center">
         {{ range .Site.Menus.main }}
-        <a class="nav-link" href="{{ .URL }}">
-        {{ if .Pre }}
-        {{ $icon := printf "<svg width=\"1.5em\" height=\"1.5em\" fill=\"currentColor\"><use xlink:href=\"/bieres/svg/fa-solid.svg#%s\"></use></svg> " .Pre | safeHTML }}
-        {{ $icon }}
-        {{ end }}
-        {{ $text := print .Name | safeHTML }}
-        {{ $text }}
-        </a>
+            <a class="nav-link" href="{{ .URL }}">
+            {{ if .Pre }}
+                {{ partial "fa-solid.html" .Pre }}
+            {{ end }}
+            {{ .Name | safeHTML }}
+            </a>
         {{ end }}
     </nav>
 </div>
