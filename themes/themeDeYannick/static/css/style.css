@@ -11,7 +11,6 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
   color: var(--hover-color);
 }
 
@@ -27,22 +26,4 @@ a:hover {
 .nav-link:hover {
   text-decoration: none;
   color: var(--accent-hover-color);
-}
-
-.icon {
-  display: inline-flex;
-  align-self: center;
-}
-
-.icon svg,
-.icon img {
-  height: 1em;
-  width: 1em;
-  fill: currentColor;
-}
-
-.icon.baseline svg,
-.icon img {
-  top: 0.125em;
-  position: relative;
 }
