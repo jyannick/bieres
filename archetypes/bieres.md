@@ -13,3 +13,22 @@ color:
 alcoolByVolume: 5
 ---
 
+TODO : intro
+
+<!--more-->
+
+# Dégustation
+
+- TODO
+- TODO
+
+
+# Étiquette
+
+{{< figure src="{{ .Name | lower }}-etiquette.png" alt="L'étiquette {{ .Title }}" width="700rem" link=""{{ .Name | lower }}-etiquette.png"">}}
+
+**[Licence](link-to-wikipedia "tooltip")** : TODO
+
+# Anecdotes
+
+TODO

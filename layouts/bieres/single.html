@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="justify-content-center">
-  <h1 class="text-center">Bière : {{ .Title }}</h1>
+  <h1 class="text-center">{{ .Title }}</h1>
   <h2 class="text-center lead">{{ .Params.pitch }}</h2>
   <br /><br />
   <div class="text-center">
@@ -11,6 +11,9 @@
     />
   </div>
   <br />
+  <div class="row m-3">
+    <blockquote class="blockquote">{{ .Description }}</blockquote>
+  </div>
   <div class="row justify-content-center">
     <div class="col-auto">
       <table class="table table-responsive">
@@ -53,6 +56,6 @@
   </div>
 </div>
 <br />
-<span class="text-center">{{ .Content }}</span>
+<span>{{ .Content }}</span>
 <p class="text-center">{{ partial "metadata.html" . }}</p>
 {{ end }}
