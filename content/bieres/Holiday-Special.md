@@ -24,7 +24,7 @@ description: >
 
 # La référence
 
-{{< figure src="/bieres/img/holiday-special-etiquette.png" alt="L'étiquette Holiday Special" width="700rem" link="/bieres/img/holiday-special-etiquette.png">}}
+{{< img src="/bieres/img/holiday-special-etiquette.png" text="L'étiquette Holiday Special" >}}
 
 **[Star Wars](https://fr.wikipedia.org/wiki/Au_temps_de_la_guerre_des_%C3%A9toiles "Wikipédia Holiday Special")** : il existe un "épisode spécial de Noël", sorti entre "Un Nouvel Espoir" et "L'Empire Contre-Attaque". Le film est un nanard de compétition, au point que Georges Lucas a tenté d'en détruire toutes les copies. Comme je m'attendais à rater mon premier brassin, et que c'était une bière spéciale de Noël, le nom était tout trouvé.
 
