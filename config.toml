@@ -24,13 +24,3 @@ pluralizelisttitles = false
     pre = "flask"
     url = "/brassage/"
     weight = 3
-  [[menu.main]]
-    name = "Blog"
-    pre = "user-edit"
-    url = "/posts/"
-    weight = 4
-  [[menu.main]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
-    weight = 5
