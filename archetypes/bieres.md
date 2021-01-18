@@ -11,21 +11,18 @@ recipeUrl:
 style: 
 color: 
 alcoolByVolume: 5
+description: >
+  TODO Blablabla bla bla bla.
 ---
-
-TODO : intro
-
-<!--more-->
 
 # Dégustation
 
 - TODO
 - TODO
 
+# La référence
 
-# Étiquette
-
-{{< figure src="{{ .Name | lower }}-etiquette.png" alt="L'étiquette {{ .Title }}" width="700rem" link=""{{ .Name | lower }}-etiquette.png"">}}
+{{< img src="{{ .Name | lower }}-etiquette.png" text="L'étiquette {{ .Title }}" >}}
 
 **[Licence](link-to-wikipedia "tooltip")** : TODO
 
