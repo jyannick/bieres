@@ -23,20 +23,18 @@
             <td>{{ .Params.style }}</td>
           </tr>
           <tr>
+            <th scope="row">Couleur</th>
+            <td>{{ .Params.color }}</td>
+          </tr>
+          <tr>
             <th scope="row">Taux d'alcool</th>
             <td>{{ .Params.alcoolByVolume }}% vol. (environ)</td>
           </tr>
           <tr>
             <th scope="row">Méthode de brassage</th>
             <td>
-              <a href="/bieres/brassage/{{ .Params.brewMethod | urlize }}"
-                >{{ .Params.brewMethod }}</a
-              >
+              <a href="/bieres/brassage/{{ .Params.brewMethod | urlize }}">{{ .Params.brewMethod }}</a>
             </td>
-          </tr>
-          <tr>
-            <th scope="row">Couleur</th>
-            <td>{{ .Params.color }}</td>
           </tr>
           <tr>
             <th scope="row">Recette</th>
@@ -44,9 +42,7 @@
               {{ if .Params.recipeUrl }}
               <a href="{{ .Params.recipeUrl }}">{{ .Params.recipe }}</a>
               {{ else }}
-              <a href="https://www.google.com/search?q={{ .Params.recipe }}"
-                >{{ .Params.recipe }}</a
-              >
+              <a href="https://www.google.com/search?q={{ .Params.recipe }}">{{ .Params.recipe }}</a>
               {{ end }}
             </td>
           </tr>
