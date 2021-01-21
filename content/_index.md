@@ -1,7 +1,7 @@
 ---
 title: "Bienvenue sur le site des bières de Yannick"
 date: 2021-01-17T17:24:26+01:00
-draft: true
+draft: false
 ---
 
 # Bienvenue !
@@ -27,6 +27,6 @@ Dans ces conditions, vous pourrez conserver les bières sans problème 6 mois à
 
 Les bières artisanales sont généralement plus fortes que les bières industrielles, à la fois en alcool et en goût. Elles sont donc à consommer avec modération : n'hésitez pas à partager votre bouteille ! Un accompagnement est souvent appréciable : charcuterie, fromage...
 
-Les styles de bières sont très variés : pour chaque recette vous trouverez sur le site mes notes de dégustation, qui pourront vous aider à identifier des goûts ou des parfums. Mais la bière non pasteurisée va évoluer avec le temps, et chaque personne a un palais différent : pas d'inquiétude si ce que vous goûtez ne correspond pas à ce que vous lisez !
+Les styles de bières sont très variés : pour chaque recette vous trouverez via le menu en haut de ce site mes notes de dégustation, qui pourront vous aider à identifier des goûts ou des parfums. Mais la bière non pasteurisée va évoluer avec le temps, et chaque personne a un palais différent : pas d'inquiétude si ce que vous goûtez ne correspond pas à ce que vous lisez !
 
 Et surtout, n'hésitez pas à me dire ce que vous en avez pensé, en bien ou en mal : ça m'aidera à progresser et à cerner vos goûts !
