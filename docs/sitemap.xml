@@ -43,32 +43,11 @@
   </url>
   
   <url>
-    <loc>https://jyannick.github.io/bieres/tags/bar/</loc>
-    <lastmod>2020-12-26T21:14:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jyannick.github.io/bieres/tags/foo/</loc>
-    <lastmod>2020-12-26T21:14:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jyannick.github.io/bieres/posts/my-first-post/</loc>
-    <lastmod>2020-12-26T21:14:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jyannick.github.io/bieres/posts/</loc>
-    <lastmod>2020-12-26T21:14:00+01:00</lastmod>
+    <loc>https://jyannick.github.io/bieres/categories/</loc>
   </url>
   
   <url>
     <loc>https://jyannick.github.io/bieres/tags/</loc>
-    <lastmod>2020-12-26T21:14:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jyannick.github.io/bieres/categories/</loc>
   </url>
   
 </urlset>

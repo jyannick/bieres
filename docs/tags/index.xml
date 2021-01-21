@@ -5,25 +5,6 @@
     <link>https://jyannick.github.io/bieres/tags/</link>
     <description>Recent content in Tags on Les Bières de Yannick</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sat, 26 Dec 2020 21:14:00 +0100</lastBuildDate><atom:link href="https://jyannick.github.io/bieres/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>bar</title>
-      <link>https://jyannick.github.io/bieres/tags/bar/</link>
-      <pubDate>Sat, 26 Dec 2020 21:14:00 +0100</pubDate>
-      
-      <guid>https://jyannick.github.io/bieres/tags/bar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>foo</title>
-      <link>https://jyannick.github.io/bieres/tags/foo/</link>
-      <pubDate>Sat, 26 Dec 2020 21:14:00 +0100</pubDate>
-      
-      <guid>https://jyannick.github.io/bieres/tags/foo/</guid>
-      <description></description>
-    </item>
-    
+    <language>fr-fr</language><atom:link href="https://jyannick.github.io/bieres/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

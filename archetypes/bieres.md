@@ -1,15 +1,15 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-pitch: "Une bière qu'elle est bonne !"
+pitch: "TODO"
 featuredImg: "{{ .Name | lower }}.jpg"
 thumbImg: "{{ .Name | lower }}-thumb.jpg"
 date: {{ .Date }}
 draft: true
-brewMethod: "extraits de malt"
-recipe: "recette maison"
+brewMethod: "extraits de malt" TODO "tout grain"
+recipe: "TODO"
 recipeUrl: 
-style: 
-color: 
+style: TODO
+color: TODO
 alcoolByVolume: 5
 description: >
   TODO Blablabla bla bla bla.
@@ -22,9 +22,11 @@ description: >
 
 # La référence
 
-{{< img src="{{ .Name | lower }}-etiquette.png" text="L'étiquette {{ .Title }}" >}}
-
 **[Licence](link-to-wikipedia "tooltip")** : TODO
+# Étiquette
+
+{{< img src="{{ .Name | lower }}-etiquette.png" text="L'étiquette {{ .Title }}" >}}
+TODO
 
 # Anecdotes
 
