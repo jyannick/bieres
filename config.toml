@@ -7,7 +7,7 @@ pluralizelisttitles = false
 
 [params]
   welcome = "Brassage maison et références obscures"
-  icon = "glass-cheers"
+  icon = "beer"
 
 [menu]
   [[menu.main]]
