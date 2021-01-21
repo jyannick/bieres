@@ -14,16 +14,15 @@ a:hover {
   color: var(--hover-color);
 }
 
-#nav-border {
-  background-color: var(--accent-color);
-}
-
-.nav-link {
+.navbar {
   background-color: var(--accent-color);
   color: var(--accent-contrast-color);
 }
 
+.nav-link {
+  color: var(--accent-contrast-color) !important;
+}
+
 .nav-link:hover {
-  text-decoration: none;
-  color: var(--accent-hover-color);
+  color: var(--accent-hover-color) !important;
 }

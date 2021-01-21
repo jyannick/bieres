@@ -1,12 +1,33 @@
-<div id="nav-border" class="container-fluid">
-  <nav id="nav" class="nav justify-content-center">
-    {{ range .Site.Menus.main }}
-      <a class="nav-link" href="{{ .URL }}">
-        {{ if .Pre }}
-          {{ partial "fa-solid.html" .Pre }}
+<nav class="navbar navbar-expand-md navbar-dark">
+  <div class="container-fluid">
+    <span class="navbar-brand">
+      {{ if $.Site.Params.icon }}
+        {{ partial "fa-solid.html"  $.Site.Params.icon }}
+      {{ end }}
+      {{ .Site.Title }}
+    </span>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        {{ range .Site.Menus.main }}
+          <a class="nav-link" aria-current="page" href="{{ .URL }}">
+            {{ if .Pre }}
+              {{ partial "fa-solid.html" .Pre }}
+            {{ end }}
+            {{ .Name | safeHTML }}
+          </a>
         {{ end }}
-        {{ .Name | safeHTML }}
-      </a>
-    {{ end }}
-  </nav>
-</div>
+      </ul>
+    </div>
+  </div>
+</nav>
