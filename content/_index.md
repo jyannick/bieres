@@ -11,7 +11,7 @@ Si vous parcourez ce site, c'est probablement que je vous ai offert une bouteill
 # Conservation
 
 1. A l'abri de la lumière
-2. Si possible dans un endroit frais 
+2. Si possible dans un endroit frais
 3. De préférence bouteille debout, pour que le dépôt naturel tombe au fond
 
 Dans ces conditions, vous pourrez conserver les bières sans problème 6 mois à partir de la date de mise en bouteille, et même au-delà d'un an pour les plus fortes en alcool.
@@ -22,7 +22,7 @@ Dans ces conditions, vous pourrez conserver les bières sans problème 6 mois à
 2. Juste avant de servir, rincez le verre à l'eau froide sans l'essuyer pour éviter l'excès de mousse
 3. Selon votre goût, vous pouvez verser le dépôt de levures ou le laisser au fond de la bouteille. Il renforce le goût et l'amertume de la bière
 4. Inutile de me rendre la bouteille vide : j'en ai un stock suffisant. Pensez juste à la recycler !
- 
+
 # Dégustation
 
 Les bières artisanales sont généralement plus fortes que les bières industrielles, à la fois en alcool et en goût. Elles sont donc à consommer avec modération : n'hésitez pas à partager votre bouteille ! Un accompagnement est souvent appréciable : charcuterie, fromage...

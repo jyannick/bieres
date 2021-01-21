@@ -1,8 +1,12 @@
 <figure>
-    <a href="{{ .Get "src" }}">
-        <img class="img-fluid rounded" src="{{ .Get "src" }}" alt="{{ .Get "text" }}"/>
-    </a>
-    <figcaption class="text-center">
-        {{ .Get  "text" }}
-    </figcaption>
+  <a href="{{ .Get "src" }}">
+    <img
+      class="img-fluid rounded"
+      src="{{ .Get "src" }}"
+      alt="{{ .Get "text" }}"
+    />
+  </a>
+  <figcaption class="text-center">
+    {{ .Get  "text" }}
+  </figcaption>
 </figure>

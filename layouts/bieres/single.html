@@ -1,57 +1,61 @@
 {{ define "main" }}
-<div class="justify-content-center">
-  <h1 class="text-center">{{ .Title }}</h1>
-  <h2 class="text-center lead">{{ .Params.pitch }}</h2>
-  <br /><br />
-  <div class="text-center">
-    <img
-      src="/bieres/img/{{ .Params.featuredImg }}"
-      class="img-fluid rounded"
-      alt="Featured image for {{ .Title }}"
-    />
-  </div>
-  <br />
-  <div class="row m-3">
-    <blockquote class="blockquote">{{ .Description }}</blockquote>
-  </div>
-  <div class="row justify-content-center">
-    <div class="col-auto">
-      <table class="table table-responsive">
-        <tbody>
-          <tr>
-            <th scope="row">Style de bière</th>
-            <td>{{ .Params.style }}</td>
-          </tr>
-          <tr>
-            <th scope="row">Couleur</th>
-            <td>{{ .Params.color }}</td>
-          </tr>
-          <tr>
-            <th scope="row">Taux d'alcool</th>
-            <td>{{ .Params.alcoolByVolume }}% vol. (environ)</td>
-          </tr>
-          <tr>
-            <th scope="row">Méthode de brassage</th>
-            <td>
-              <a href="/bieres/brassage/{{ .Params.brewMethod | urlize }}">{{ .Params.brewMethod }}</a>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Recette</th>
-            <td>
-              {{ if .Params.recipeUrl }}
-              <a href="{{ .Params.recipeUrl }}">{{ .Params.recipe }}</a>
-              {{ else }}
-              <a href="https://www.google.com/search?q={{ .Params.recipe }}">{{ .Params.recipe }}</a>
-              {{ end }}
-            </td>
-          </tr>
-        </tbody>
-      </table>
+  <div class="justify-content-center">
+    <h1 class="text-center">{{ .Title }}</h1>
+    <h2 class="text-center lead">{{ .Params.pitch }}</h2>
+    <br /><br />
+    <div class="text-center">
+      <img
+        src="/bieres/img/{{ .Params.featuredImg }}"
+        class="img-fluid rounded"
+        alt="Featured image for {{ .Title }}"
+      />
+    </div>
+    <br />
+    <div class="row m-3">
+      <blockquote class="blockquote">{{ .Description }}</blockquote>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <table class="table table-responsive">
+          <tbody>
+            <tr>
+              <th scope="row">Style de bière</th>
+              <td>{{ .Params.style }}</td>
+            </tr>
+            <tr>
+              <th scope="row">Couleur</th>
+              <td>{{ .Params.color }}</td>
+            </tr>
+            <tr>
+              <th scope="row">Taux d'alcool</th>
+              <td>{{ .Params.alcoolByVolume }}% vol. (environ)</td>
+            </tr>
+            <tr>
+              <th scope="row">Méthode de brassage</th>
+              <td>
+                <a href="/bieres/brassage/{{ .Params.brewMethod | urlize }}"
+                  >{{ .Params.brewMethod }}</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Recette</th>
+              <td>
+                {{ if .Params.recipeUrl }}
+                  <a href="{{ .Params.recipeUrl }}">{{ .Params.recipe }}</a>
+                  {{ else }}
+                  <a href="https://www.google.com/search?q={{ .Params.recipe }}"
+                    >{{ .Params.recipe }}</a
+                  >
+                {{ end }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
-</div>
-<br />
-<span>{{ .Content }}</span>
-<p class="text-center">{{ partial "metadata.html" . }}</p>
+  <br />
+  <span>{{ .Content }}</span>
+  <p class="text-center">{{ partial "metadata.html" . }}</p>
 {{ end }}

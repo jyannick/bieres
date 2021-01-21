@@ -1,12 +1,12 @@
 <div id="nav-border" class="container-fluid">
-    <nav id="nav" class="nav justify-content-center">
-        {{ range .Site.Menus.main }}
-            <a class="nav-link" href="{{ .URL }}">
-            {{ if .Pre }}
-                {{ partial "fa-solid.html" .Pre }}
-            {{ end }}
-            {{ .Name | safeHTML }}
-            </a>
+  <nav id="nav" class="nav justify-content-center">
+    {{ range .Site.Menus.main }}
+      <a class="nav-link" href="{{ .URL }}">
+        {{ if .Pre }}
+          {{ partial "fa-solid.html" .Pre }}
         {{ end }}
-    </nav>
+        {{ .Name | safeHTML }}
+      </a>
+    {{ end }}
+  </nav>
 </div>
