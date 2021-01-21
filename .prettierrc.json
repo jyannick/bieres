@@ -1,0 +1,12 @@
+{
+  "plugins": ["./node_modules/prettier-plugin-go-template"],
+  "pluginSearchDirs": ["./node_modules"],
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "parser": "go-template"
+      }
+    }
+  ]
+}
