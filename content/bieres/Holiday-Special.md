@@ -34,6 +34,6 @@ Ma première étiquette, en noir et blanc, prévue pour une imprimante laser. El
 
 # Anecdotes
 
-Mon premier brassin ! Le brassage tout grain m'a pris un peu plus de 6h, avec un brassage en sac. J'ai perdu pas mal de temps à cause de l'eau de rinçage qui ne chauffait pas assez vite. Et comme la plupart des débutants, j'ai tout fait déborder au début de l'ébullition quand la mousse se forme... je pense avoir perdu environ 2L de moût comme ça. Leçon retenue, il faut surveiller l'ébullition de très près ! Le refroidissement a été efficace, je n'ai pas regretté d'avoir directement investi dans un refroidisseur à immersion en inox.
+Mon premier brassin ! Le brassage tout grain m'a pris un peu plus de 6h, avec un brassage en sac. J'ai perdu pas mal de temps à cause de l'eau de rinçage qui ne chauffait pas assez vite. Et comme la plupart des débutants, j'ai tout fait déborder au début de l'ébullition quand la mousse se forme... je pense avoir perdu environ 2L de [moût](/bieres/brassage/mout) comme ça. Leçon retenue, il faut surveiller l'ébullition de très près ! Le refroidissement a été efficace, je n'ai pas regretté d'avoir directement investi dans un refroidisseur à immersion en inox.
 
 Ensuite 2 semaines de fermentation à température ambiante dans la maison. Comme c'était l'hiver, la température variait pas mal au cours de la journée selon que le chauffage était en route ou non, mais ça ne semble pas avoir été trop gênant pour la fermentation.

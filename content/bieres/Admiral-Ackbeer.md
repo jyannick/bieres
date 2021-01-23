@@ -37,6 +37,6 @@ J'ai suivi un long tuto gimp pour la création de l'effet parchemin, j'ai appris
 
 # Anecdotes
 
-Lors du brassage en abbaye, le moût le plus concentré était utilisé pour la bière triple, réservée aux invités de marque. Ensuite, le grain était réutilisé pour brasser la bière double pour les moines eux-mêmes. Et une troisième fois pour la bière de table qui était servie aux simples visiteurs. Comme lorsqu'on réutilise un sachet de thé, le moût était de moins en moins concentré à chaque fois, produisant une bière moins forte en alcool et plus fade en goût.
+Lors du brassage en abbaye, le [moût](/bieres/brassage/mout) le plus concentré était utilisé pour la bière triple, réservée aux invités de marque. Ensuite, le grain était réutilisé pour brasser la bière double pour les moines eux-mêmes. Et une troisième fois pour la bière de table qui était servie aux simples visiteurs. Comme lorsqu'on réutilise un sachet de thé, le [moût](/bieres/brassage/mout) était de moins en moins concentré à chaque fois, produisant une bière moins forte en alcool et plus fade en goût.
 
-La recette que j'ai utilisée inclut du sucre candi, rajouté directement dans le moût avant la fermentation. Cet ajout de sucres fermentescibles permet d'augmenter le taux d'alcool et le corps (côté "gras" ou épais) de la bière. Certains arômes du sucre candi persistent jusque dans la bouteille et contribuent au goût.
+La recette que j'ai utilisée inclut du sucre candi, rajouté directement dans le [moût](/bieres/brassage/mout) avant la fermentation. Cet ajout de sucres fermentescibles permet d'augmenter le taux d'alcool et le corps (côté "gras" ou épais) de la bière. Certains arômes du sucre candi persistent jusque dans la bouteille et contribuent au goût.
