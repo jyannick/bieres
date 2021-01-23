@@ -11,6 +11,7 @@ recipeUrl:
 style: bière de blé
 color: blanche
 alcoolByVolume: 5.5
+totalVolume: 15.3L
 description: >
     Une bière blanche, désaltérante et peu amère, à boire bien fraîche en été. Un style simple mais souvent très apprécié.
 ---

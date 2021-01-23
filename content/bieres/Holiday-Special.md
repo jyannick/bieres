@@ -11,6 +11,7 @@ recipeUrl: "https://www.saveur-biere.com/fr/kit-a-biere-tout-grain/33787-recette
 style: Bière de Noël
 color: noire
 alcoolByVolume: 8
+totalVolume: 9L
 description: >
   Une bière noire au malt torréfié, qui lui confère des arômes de café. Attention, elle est très forte en alcool ! Accompagne parfaitement un dessert au chocolat, en partageant une bouteille à 2 ou 3 personnes.
 ---

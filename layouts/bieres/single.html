@@ -31,6 +31,10 @@
               <td>{{ .Params.alcoolByVolume }}% vol. (environ)</td>
             </tr>
             <tr>
+              <th scope="row">Volume brassé</th>
+              <td>{{ .Params.totalVolume }} (à la mise en bouteille)</td>
+            </tr>
+            <tr>
               <th scope="row">Méthode de brassage</th>
               <td>
                 <a href="/bieres/brassage/{{ .Params.brewMethod | urlize }}"

@@ -5,12 +5,13 @@ featuredImg: "{{ .Name | lower }}.jpg"
 thumbImg: "{{ .Name | lower }}-thumb.jpg"
 date: {{ .Date }}
 draft: true
-brewMethod: "extraits de malt" TODO "tout grain"
+brewMethod: "TODO: extraits de malt / tout grain"
 recipe: "TODO"
 recipeUrl: 
 style: TODO
 color: TODO
 alcoolByVolume: 5
+totalVolume: TODO L
 description: >
   TODO Blablabla bla bla bla.
 ---
@@ -23,9 +24,10 @@ description: >
 # La référence
 
 **[Licence](link-to-wikipedia "tooltip")** : TODO
+
 # Étiquette
 
-{{< img src="{{ .Name | lower }}-etiquette.png" text="L'étiquette {{ .Title }}" >}}
+{{< img src="/bieres/img/{{ .Name | lower }}-etiquette.png" text="L'étiquette {{ .Name }}" >}}
 TODO
 
 # Anecdotes

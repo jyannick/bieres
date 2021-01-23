@@ -11,6 +11,7 @@ recipeUrl:
 style: indéfini
 color: ambrée
 alcoolByVolume: 4
+totalVolume: 25.3L
 description: >
   Une petite déception personnelle : la recette choisie promettait une IPA, c'est à dire une bière blonde amère et florale. Mais au final j'ai obtenu une bière plutôt ambrée et sucrée. Toutefois si on juge le produit fini c'est plutôt réussi, il s'agit d'une bière facile à boire tout en ayant une bonne complexité.
 ---
@@ -38,4 +39,4 @@ J'ai décidé de jouer sur la proximité entre les bières "IPA", pour India Pal
 
 Ma première tentative de brassage aux extraits de malt ! C'est infiniment plus rapide que le brassage tout-grain, mais la satisfaction n'est pas la même.
 
-J'avais sous-estimé la durée de mise en bouteille. 23L, quand on n'a pas l'habitude, c'est énorme !
+J'avais sous-estimé la durée de mise en bouteille : 25L, quand on n'a pas l'habitude, c'est énorme !
