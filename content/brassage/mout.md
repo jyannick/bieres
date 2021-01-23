@@ -1,7 +1,7 @@
 ---
 title: "Moût"
 date: 2021-01-23T14:03:49+01:00
-draft: true
+draft: false
 ---
 
 Le jus de céréales obtenu à la fin du brassage. On le met ensuite à fermenter pour obtenir de la bière.
