@@ -19,10 +19,12 @@ a:hover {
   color: var(--accent-contrast-color);
 }
 
-.nav-link {
+.nav-link,
+.navbar-brand {
   color: var(--accent-contrast-color) !important;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.navbar-brand:hover {
   color: var(--accent-hover-color) !important;
 }

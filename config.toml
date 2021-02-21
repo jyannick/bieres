@@ -11,17 +11,12 @@ pluralizelisttitles = false
 
 [menu]
   [[menu.main]]
-    name = "Accueil"
-    pre = "home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
     name = "Bières"
     pre = "wine-bottle"
     url = "/bieres/"
-    weight = 2
+    weight = 1
   [[menu.main]]
     name = "Brassage"
     pre = "flask"
     url = "/brassage/"
-    weight = 3
+    weight = 2
