@@ -28,3 +28,7 @@ a:hover {
 .navbar-brand:hover {
   color: var(--accent-hover-color) !important;
 }
+
+.summary p {
+  display: inline;
+}
