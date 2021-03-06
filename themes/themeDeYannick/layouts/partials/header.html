@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-md navbar-dark sticky-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="{{ .Params.baseURL }}">
+    <a class="navbar-brand" href="{{ .Site.Home.Permalink }}">
       {{ if $.Site.Params.icon }}
         {{ partial "fa-solid.html"  $.Site.Params.icon }}
       {{ end }}
